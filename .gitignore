@@ -1,0 +1,6 @@
+﻿UnitTestApp/.vs
+UnitTestApp/bin
+UnitTestApp/obj
+UnitTestApp/wwwroot/lib
+UnitTestApp.Tests/bin
+UnitTestApp.Tests/obj
